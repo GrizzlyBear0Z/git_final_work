@@ -42,3 +42,6 @@
 * git branch -M main
 * git remote add origin https://github.com/GrizzlyBear0Z/git_final_work.git
 * git push -u origin main
+
+## Отправляем ветку нашего проекта на удаленный репозиторий
+git push -u origin "branch"
